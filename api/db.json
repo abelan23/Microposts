@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post One",
+      "body": "Just Captain Marvel, it was very good!"
+    },
+    {
+      "id": 2,
+      "title": "Post Two",
+      "body": "Pet Semetary, was definitely worth it!"
+    },
+    {
+      "id": 3,
+      "title": "Post Three",
+      "body": "Took my kids to see Dumbo, they loved it!"
+    }
+  ]
+}
